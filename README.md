@@ -4,9 +4,10 @@ DevOps Days Meetup November 2014
 TODO:
 
 a) Piotr S.:
-- ask DODW speakers about talk proposals
-- ask friends about talks proposals
-- find a venue
+   - [x] ask DODW speakers about talk proposals
+   - [x] ask friends about talks proposals
+   - find a venue
+   - consider possible sponsorships
 
 b) Mike P.:
    - [x] ask MeetUp community about talk proposals
